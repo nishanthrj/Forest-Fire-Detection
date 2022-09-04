@@ -1,0 +1,8 @@
+# Virtual Environment
+venv/
+
+# Data
+Dataset/
+
+# Environment Variables
+.env
